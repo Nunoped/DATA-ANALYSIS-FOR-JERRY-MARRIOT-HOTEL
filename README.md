@@ -22,6 +22,12 @@ Jerry Marriot Dataset
 2.	Made sure that data is consistent and clean by verifying the excel data with the queries ran
 3.	Created pivot tables according to the questions asked
 4.	Merged the pivot tables into a dashboard.
+# Insights
+1.	Bottle water is the biggest revenue generator hence, the company should increase their bottle water stock lev el.
+2.	Beer sales contribute to the major revenues for the company, hence increase the stock level for beers.
+3.	Wines and Whiskey are underperforming in sales, the company should market their wine and whiskey drink brands, include the sale of cocktails and whiskey shots, this will increase the sale of these brands.
+4.	More investigation needs to be conducted to determine if it is a taste problem or the quality of these drinks, hence a survey is necessary.
+
 # Charts Requirements
 ## We would like to visualize aspects of our Drink sales data to gain insights and understand key trends. We have identified the following requirements for creating charts.
 1.	Top Revenue Generators.
