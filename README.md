@@ -18,7 +18,7 @@ Jerry Marriot Dataset
 ## Screenshot of Heineken Bar dashboard
 ![HDASHBOARD](https://github.com/user-attachments/assets/dcd3751b-43e0-4b91-ace6-3ad5bc6fb60b)
 # Processes Involved
-## 1.	Verified data for any missing values and anomalies, as well as sort the data
+##1.	Verified data for any missing values and anomalies, as well as sort the data
 2.	Made sure that data is consistent and clean by verifying the excel data with the queries ran
 3.	Created pivot tables according to the questions asked
 4.	Merged the pivot tables into a dashboard.
