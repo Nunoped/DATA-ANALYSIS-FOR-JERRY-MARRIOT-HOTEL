@@ -17,3 +17,14 @@ Jerry Marriot Dataset
 ![PDASHBOARD](https://github.com/user-attachments/assets/0e3df5fc-245f-4206-a760-e0e5732f6f6b)
 ## Screenshot of Heineken Bar dashboard
 ![HDASHBOARD](https://github.com/user-attachments/assets/dcd3751b-43e0-4b91-ace6-3ad5bc6fb60b)
+# Processes Involved
+## 1.	Verified data for any missing values and anomalies, as well as sort the data
+2.	Made sure that data is consistent and clean by verifying the excel data with the queries ran
+3.	Created pivot tables according to the questions asked
+4.	Merged the pivot tables into a dashboard.
+# Charts Requirements
+## We would like to visualize aspects of our Drink sales data to gain insights and understand key trends. We have identified the following requirements for creating charts.
+1.	Top Revenue Generators.
+2.	Top profit generators.
+3.	Highest quantity sales made.
+4.	Top 5 best sellers from total drinks sold
